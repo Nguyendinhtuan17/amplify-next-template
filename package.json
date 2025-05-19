@@ -11,7 +11,7 @@
   "dependencies": {
     "@aws-amplify/ui-react": "^6.5.5",
     "aws-amplify": "^6.6.6",
-    "next": "14.2.10",
+    "next": "14.2.26",
     "react": "^18",
     "react-dom": "^18"
   },
@@ -24,8 +24,8 @@
     "aws-cdk": "^2",
     "aws-cdk-lib": "^2",
     "constructs": "^10.3.0",
-    "esbuild": "^0.23.1",
-    "tsx": "^4.19.0",
+    "esbuild": "^0.25.4",
+    "tsx": "^4.19.4",
     "typescript": "^5.6.2"
   }
 }
